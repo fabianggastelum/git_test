@@ -1,0 +1,3 @@
+Hello World!
+This is me trying to use Git for the first time...
+20220823
